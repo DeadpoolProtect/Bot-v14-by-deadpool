@@ -1,27 +1,17 @@
 <h1 align="center">
- Bot-v14-by-deadpool⚙
+Bot-v14-by-deadpool⚙
 </h1>
-
----
-## <a id="menu"></a>🔱 » Menu
-
-- [☄・Site](https://alexisbot.fr/)
-- [🌌・Discord](https://discord.gg/yrmWeTgbgn)
-
-
-1. Install [Nodejs](https://nodejs.org/)
-2. Open up [config.js](https://discord.gg/yrmWeTgbgn) with notepad or some other editor
-
-# <a id="config"></a>⚙ » Config
-
-If you want to change the config, open up [config.js](https://discord.gg/yrmWeTgbgn) and locate it at the top. There you can configure the following:
+<a id="menu"></a>🔱 » Menu
+☄・Site
+🌌・Discord
+Installer Nodejs
+Ouvrez config.js avec le bloc-notes ou un autre éditeur
+<a id="config"></a>⚙ » Config
+Si vous souhaitez modifier la configuration, ouvrez config.js et localisez-la en haut. Vous pouvez y configurer les éléments suivants :
 
 ```js
 {
-    token: "Put-Token-Here",
-    ClientID: "id of bot",
-    Authors: ["Owner-Id", "Owner-2"],
-}
-```
-
----
+    token: "Mettez-le-jeton-ici",
+    ClientID: "ID-du-bot",
+    Authors: ["ID-du-propriétaire", "Propriétaire-2"],
+}```

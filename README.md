@@ -9,8 +9,8 @@
 - [🌌・Discord](https://discord.gg/yrmWeTgbgn)
 
 
-1. Install [Nodejs](https://nodejs.org/)
-2. Open up [config.js](https://discord.gg/yrmWeTgbgn) with notepad or some other editor
+1. Installer [Nodejs](https://nodejs.org/)
+2. Ouvrez [config.js](https://discord.gg/yrmWeTgbgn) avec le bloc-notes ou un autre éditeur
 
 # <a id="config"></a>⚙ » Config
 

@@ -2,8 +2,8 @@
 Bot-v14-by-deadpool⚙
 </h1>
 <a id="menu"></a>🔱 » Menu
-☄・Site
-🌌・Discord
+- [☄・Site](https://alexisbot.fr/)
+- [🌌・Discord](https://discord.gg/yrmWeTgbgn)
 Installer Nodejs
 Ouvrez config.js avec le bloc-notes ou un autre éditeur
 <a id="config"></a>⚙ » Config
